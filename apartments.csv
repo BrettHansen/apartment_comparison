@@ -1,0 +1,24 @@
+Name;Address;Latitude;Longitude;Neighborhood;Bedrooms;Rent;Parking Cost;Square Footage;Dogs;W/D;Notes
+Pike Motorworks;715 E Pine St, Seattle, WA 98122;47.614884;122.322716;Capitol Hill;0 - 1;$2,800 - 3,500;$275;800+;Y;Y;
+Union Bay Apartments;526 Yale Ave N, Seattle, WA 98109;47.62402;-122.330154;Capitol Hill;0 - 1;$2,200 - 2,400;$195;600+;Y;Y;
+Excelsior;1535 Bellevue Ave, Seattle, WA 98122;47.615043;-122.327007;Capitol Hill;1;$2,000 - 3,200;$225;500 - 900;Y;Y;
+Sunset Electric;1111 E Pine St, Seattle, WA 98122;47.615158;-122.317802;Capitol Hill;0 - 1;$1,800 - 2,500;?;500 - 900;Y;Y;
+The Westside;801 E Thomas St, Seattle, WA 98102;47.620922;-122.321803;Capitol Hill;1;$1,900+;$200;500 - 675;Y;Y;
+Beryl Capitol Hill Apartments;1200 E Pike St, Seattle, WA 98122;47.614334;-122.31644;Capitol Hill;0 - 1;$2,000 - 3,500;$250;650 - 750;Y;Y;
+AVA Capitol Hill;1530 Belmont Ave, Seattle, WA 98122;47.614681;-122.323904;Capitol Hill;0 - 1;$2,300 - 2,900;$225;500 - 900;Y;Y;
+Modera Capitol Hill;1427 11th Ave, Seattle, WA 98122;47.613651;-122.318325;Capitol Hill;0 - 1;$1,900 - 3,500;?;550 - 750;Y;Y;
+1111 East Olive Apartments;1111 E Olive St, Seattle, WA 98122;47.616294;-122.31782;Capitol Hill;1;$1,900 - 2,900;$250;550 - 800;Y;Y;
+Pine + Minor;1551 Minor Avenue, Seattle, WA 98101;47.614588;-122.328592;Capitol Hill;0;$1,700 - 2,500;$250;550 - 650;Y;Y;
+Premiere on Pine;1525 9th Ave, Seattle, WA 98101;47.61318;-122.332114;Denny Triangle;0 - 1;$1,900 - 3,500;$275;500 - 750;Y;Y;
+AMLI Arc;1800 Boren Ave, Seattle, WA 98101;47.616709;-122.33186;Denny Triangle;0 - 1;$2,200 - 3,200;?;600 - 900;Y;Y;
+Kinects Tower;1823 Minor Ave, Seattle, WA 98101;47.617197;-122.33166;Denny Triangle;0 - 1;$1,700 - 2,500;$0;400 - 900;Y;Y;
+Nine & Pine;1601 9th Ave, Seattle, WA 98101;47.613756;-122.332412;Denny Triangle;1;$1,900 - 2,300;$250;600 - 700;Y;Y;
+Tower 801 Apartments;801 Pine St, Seattle, WA 98101;47.612982;-122.332623;Denny Triangle;1;?;$225;650;Y;Y;
+Panorama Apartments;1100 University St, Seattle, WA 98101;47.61194;-122.326673;First Hill;1;$2,870 - 3,295;$225;885;Y;Y;
+AMLI South Lake Union;1260 Republican St, Seattle, WA 98109;47.623394;-122.331087;SLU;0 - 1;$1,800 - 2,800;$195;500 - 900;Y;Y;
+Alley24;241 Yale Ave N, Seattle, WA 98109;47.620571;-122.330722;SLU;0 - 1;$1,500 - 2,700;$180;500 - 800;Y;Y;
+Joule;523 Broadway E, Seattle, WA 98102;47.623648;-122.321216;Capitol Hill;0 - 1;$1,800 - 2,600;$170;550 - 1000;Y?;Y;Dog Problems
+Vox;1527 15th Ave, Seattle, WA 98122;47.61508;-122.313104;Capitol Hill;0 - 1;$1,600 - 2,100;?;600 - 900;Y?;Y;Dog Problems
+The Pearl;1530 15th Ave, Seattle, WA 98122;47.614834;-122.312527;West Capitol Hill;1;$2,100;?;700;Y;Y;Far
+Stackhouse Apartments;1280 Harrison St, Seattle, WA 98109;47.622301;-122.330781;SLU;0 - 1;$2,100 - 3,500;N/A;700 - 1000;Y;?;No Parking
+1404 Boylston;1404 Boylston Ave, Seattle, WA 98122;47.613345;-122.323078;Capitol Hill;0 - 1;$2,000 - 2,300;N/A;500 - 575;Y?;N;No Parking
